@@ -74,7 +74,7 @@ p {
   margin: 30px auto;
   text-align: center;
 }
-.colors th {
+.colors th { 
   background-color: #999;
 }
 .colors td{
